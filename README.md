@@ -1,0 +1,2 @@
+# gamingtable
+videogames blogue
